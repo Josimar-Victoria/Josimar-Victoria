@@ -2,19 +2,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
+<a href="https://www.linkedin.com/in/josimar-victoria-1a3125209/">
   <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:aman.atg001@gmail.com">
+<a href="mailto:josimarvictoria968@gmail.com">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
