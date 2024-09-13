@@ -28,15 +28,12 @@ Busco seguir desarrollándome como profesional, contribuyendo a proyectos desafi
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 💬 Pregúntame cualquier cosa sobre JS, React, Redux o Firebase (después de buscarlo en Google 😜😌).
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
+- 🎿 Hobbies fuera del código: Leer blogs o sobre Historia, jugar ajedrez y videojuegos.
+- Cómo contactarme: josimarvictoria968@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1azXojkfri4fjuj2FRmMPUHGLtS0VdIdC/view?usp=drive_link)
 
 ### 🛠️ Languages and Tools:
 
@@ -64,14 +61,6 @@ Busco seguir desarrollándome como profesional, contribuyendo a proyectos desafi
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-
-
-### 👣 Next Steps
-
-_Since you don't want to leave my profile just yet! Here are some things you can do :_
-
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
 
 <!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 if you are on a similar path as mine.
