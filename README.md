@@ -1,31 +1,93 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Vatan+Agnihotri;I'm+a+Freelancer+Software+Engineer)](https://git.io/typing-svg)
-# 💫 About Me:
+### Hi there 👋, I'm [Aman](https://github.com/aman-atg) 👨‍💻
 
-I am a versatile Full Stack Engineer with more than 5 years of experience, successful at completing simultaneous development and update projects. Decisive leader and reliable team builder with a results-focused and motivated approach. Develops software solutions for a variety of client needs and experimentation platforms.
+<br/>
 
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+<a href="https://www.linkedin.com/in/aman-atg/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://t.me/amanatg0">
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="https://twitter.com/aman_atg">
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="mailto:aman.atg001@gmail.com">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AgnihotriVatan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-agnihotri/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
+<br />
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+<br/>
 
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+<br/>
+Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+<br/>  
+Things I am currently experimenting with : jest , enzyme , typescript, ...
+<br/>
+Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VatanAgnihotri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=VatanAgnihotri&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  
+### ✨ Quick Facts
 
-------
+- 👨🏽‍💻 I’m currently working as a freelancer.
+- 🌱 I’m currently learning Unit-Testing and TypeScript.
+<!--- 🤔 I’m looking for help for my future MERN projects.-->
+- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
+- 📫 How to reach me: aman.atg001@gmail.com
+- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
 
-Credit: [VatanAgnihotri](https://github.com/VatanAgnihotri)
+### 🛠️ Languages and Tools:
 
-Last Edited on: 03/05/2024
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+
+
+### 👣 Next Steps
+
+_Since you don't want to leave my profile just yet! Here are some things you can do :_
+
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
+
+<!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+if you are on a similar path as mine.
+-->
+
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+----
+Credit: [aman-atg](https://github.com/aman-atg)
+
+Last Edited on: 19/11/2020
