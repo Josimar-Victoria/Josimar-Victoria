@@ -87,7 +87,3 @@ if you are on a similar path as mine.
 -->
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-----
-Credit: [aman-atg](https://github.com/aman-atg)
-
-Last Edited on: 19/11/2020
